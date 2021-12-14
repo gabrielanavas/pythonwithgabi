@@ -19,7 +19,7 @@ print(len(friends))
 print(range(len(friends)))
 
 #concatenating list using +
-a= [1,2,3]-
+a= [1,2,3]
 b=[4,5,6]
 c= a+b
 print(c)
