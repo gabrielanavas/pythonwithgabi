@@ -1907,6 +1907,8 @@ This automatic notification message was sent by Sakai Collab (https://collab.sak
 You can modify how you receive notifications at My Workspace > Preferences."""
 
 count= 0
+#testing
+
 
 for line in fh:
     if not line.startswith('From'):
