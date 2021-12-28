@@ -1,4 +1,3 @@
-#practice
 #Assignment 4.6
 def computepay(h,r):
     if h > 40:

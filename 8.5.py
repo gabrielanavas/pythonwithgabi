@@ -1,5 +1,5 @@
 #The double split pattern
-#practice
+
 fh = """From stephen.marquard@uct.ac.za Sat Jan  5 09:14:16 2008
 Return-Path: <postmaster@collab.sakaiproject.org>
 Received: from murder (mail.umich.edu [141.211.14.90])

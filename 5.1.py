@@ -1,4 +1,3 @@
-#practice
 num = 0
 total = 0.0
 while True :

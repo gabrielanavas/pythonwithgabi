@@ -7,4 +7,3 @@ for word in lista:
 
 #with the code I made above some words such as and, is, sun and the repeat in the list
 #for those reasons I need to create a new code which will allow only on word 
-#practice
