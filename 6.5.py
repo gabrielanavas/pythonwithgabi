@@ -5,7 +5,6 @@ text = "X-DSPAM-Confidence: 0.8475"
 a=text.find('0.8475')
 print(float(text[a:]))
 
-
 #Worked Exercise
 str = "X-DSPAM-Confidence: 0.8475"
 
